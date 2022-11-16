@@ -13,17 +13,4 @@ juntar duas bases obtidas nos sites do TRE e TSE e em seguida foi realizada uma 
 banco com objetivo de selecionar apenas os candidatos a vereador que concorreram nas eleições
 2020 no município de Belo Horizonte.
 Os dados podem ser obtidos em: https://www.tre-mg.jus.br/eleicoes/eleicoes2020/eleicoes-2020 (clicar em ‘Resultados via TRE’) e https://www.tse.jus.br/eleicoes/
-estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais (candidatos > 2020 > Candidatos (formato ZIP) )
-
-Sobre as variáveis presentes no banco de dados:
-> Candidato: Nome do candidato que aparece na urna.
- Idade: Idade do candidato na data da posse. A idade é calculada com base na data da posse
-do referido candidato para o cargo e unidade eleitoral constantes no arquivo de vagas.
- Gênero: Gênero do candidato.
- Escolaridade: Grau de instrução do candidato.
- EstadoCivil: Estado civil do candidato.
- Cor_raça: Cor/raça do candidato. (auto declaração)
- possuiBens: Indica se o candidato tem ou não bens a declarar. Pode assumir os valores: S -
-Sim e N - Não. Esta informação é fornecida pelo próprio candidato no momento do pedido
-da candidatura.
- Votos: Total de votos obtidos pelo candidato.
+estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais (candidatos > 2020 > Candidatos (formato ZIP) ).
