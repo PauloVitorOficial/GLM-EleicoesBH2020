@@ -12,5 +12,3 @@ resultado das eleições na cidade de Belo Horizonte - MG. Para este trabalho fo
 juntar duas bases obtidas nos sites do TRE e TSE e em seguida foi realizada uma filtragem neste
 banco com objetivo de selecionar apenas os candidatos a vereador que concorreram nas eleições
 2020 no município de Belo Horizonte.
-Os dados podem ser obtidos em: https://www.tre-mg.jus.br/eleicoes/eleicoes2020/eleicoes-2020 (clicar em ‘Resultados via TRE’) e https://www.tse.jus.br/eleicoes/
-estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais (candidatos > 2020 > Candidatos (formato ZIP) ).
